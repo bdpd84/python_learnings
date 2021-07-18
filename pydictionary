@@ -1,0 +1,3 @@
+from pydictionary import pydictionary
+dictionary=pydictionary()
+print(dictionary.meaning(percevarence))
